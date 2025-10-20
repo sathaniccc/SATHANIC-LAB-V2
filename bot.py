@@ -13,7 +13,7 @@ BOT_TOKEN = os.getenv("8410736835:AAEb8FxjrSN2AmjpiYSfqjg6rBqGLuAqXzI") or "YOUR
 API_ID = int(os.getenv("93372553") or 123456)
 API_HASH = os.getenv("API_HASH") or "YOUR_API_HASH"
 YOUTUBE_API = os.getenv("AIzaSyDydoN5jRFL8w-iZAqq--7e3Y2-DmagjYQ") or "YOUR_YOUTUBE_API"
-OMDB_API = os.getenv("OMDB_API") or "YOUR_OMDB_API"
+OMDB_API = os.getenv("1c430269") or "YOUR_OMDB_API"
 ADMIN_ID = int(os.getenv("ADMIN_ID") or 0)
 
 app = Client("SATHANIC_LAB", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
