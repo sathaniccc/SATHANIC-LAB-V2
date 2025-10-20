@@ -12,7 +12,7 @@ from pyrogram.types import InputMediaPhoto
 BOT_TOKEN = os.getenv("8410736835:AAEb8FxjrSN2AmjpiYSfqjg6rBqGLuAqXzI") or "YOUR_BOT_TOKEN"
 API_ID = int(os.getenv("93372553") or 123456)
 API_HASH = os.getenv("API_HASH") or "YOUR_API_HASH"
-YOUTUBE_API = os.getenv("YOUTUBE_API") or "YOUR_YOUTUBE_API"
+YOUTUBE_API = os.getenv("AIzaSyDydoN5jRFL8w-iZAqq--7e3Y2-DmagjYQ") or "YOUR_YOUTUBE_API"
 OMDB_API = os.getenv("OMDB_API") or "YOUR_OMDB_API"
 ADMIN_ID = int(os.getenv("ADMIN_ID") or 0)
 
