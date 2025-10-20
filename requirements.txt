@@ -3,3 +3,7 @@ tgcrypto
 requests
 gtts
 pillow
+telethon
+python-dotenv
+pyrogram
+requests
